@@ -16,6 +16,8 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
  • WinSpeaks: Opens a powershell and makes your computer speak 
  
  • WinUAC_Killer: Opens your computer windows defender and turns it off acts like a human
+
+ • WinPayloadExecuter: Runs powershell as admin and downloads your payload from webserver and execute it
  
 
 
