@@ -24,7 +24,7 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
  
 •Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
  
-•DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi/https://naheel.xyz/ducky2digi/
+•DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi / https://naheel.xyz/ducky2digi/
 
 # WARNING!
 Im not responsible for the misuse of the following script be ethical.
