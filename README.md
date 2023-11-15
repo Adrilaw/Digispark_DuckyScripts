@@ -4,6 +4,14 @@ This is a set of hand-written DigiSpark sketches for the Arduino IDE that utiliz
 # Instructions
 Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/digispark/tutorials/connecting or Seytonic's tutorial: https://youtu.be/fGmGBa-4cYQ. Then download one of scripts (sketches), open them with Arduino IDE, modify them if needed and upload them to the DigiSpark.
 
+# Scripts Descriptions
+ • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host
+ • RickRoll: Plays Never Gonna Give you up song while performing a fake windows update
+ • WinSpeaks: Opens a powershell and makes your computer speak 
+ • WinUAC_Killer: Opens your computer windows defender and turns it off acts like a human
+ •
+
+
 # Sources
 •USB Rubber Ducky Documentation by hak5darren: https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
  
