@@ -1,3 +1,7 @@
+# Note
+The following scripts were tested on windows 10/11 machine
+
+
 # Digispark_DuckyScript
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h and DigiKeyboardFr.h library making the DigiSpark to act as a keyboard and execute a variety of actions. The DigikeyboardFr.h is the libary for the french watch https://www.youtube.com/watch?v=PYugCE4A6js to know how to install it. If you have found a USB Rubber Ducky scipt that you want to convert to a DigiSpark sketch, you can go to https://naheel.xyz/ducky2digi/ and your paste ducky script and convert it to digispark.
 
@@ -21,3 +25,6 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
 •Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
  
 •DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi/https://naheel.xyz/ducky2digi/
+
+# WARNING!
+Im not responsible for the misuse of the following script be ethical.
