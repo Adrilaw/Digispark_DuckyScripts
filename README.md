@@ -1,2 +1,3 @@
 # Digispark_DuckyScript
-Digispark HID script written two copy of each script one for french keyboard and one for english keyboard if you want more let work together
+Digispark HID script each script has one for french keyboard and one english keyboard.
+Im working on other script and soon other will be out if you want it to be quick we can work together
