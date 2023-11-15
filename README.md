@@ -5,6 +5,8 @@ This is a set of hand-written DigiSpark sketches for the Arduino IDE that utiliz
 Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/digispark/tutorials/connecting or Seytonic's tutorial: https://youtu.be/fGmGBa-4cYQ. Then download one of scripts (sketches), open them with Arduino IDE, modify them if needed and upload them to the DigiSpark.
 
 # Sources
-USB Rubber Ducky Documentation by hak5darren: https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
-Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
-DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi/https://naheel.xyz/ducky2digi/
+•USB Rubber Ducky Documentation by hak5darren: https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
+ 
+•Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
+ 
+•DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi/https://naheel.xyz/ducky2digi/
