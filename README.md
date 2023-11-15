@@ -6,10 +6,13 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
 
 # Scripts Descriptions
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host
+ 
  • RickRoll: Plays Never Gonna Give you up song while performing a fake windows update
+ 
  • WinSpeaks: Opens a powershell and makes your computer speak 
+ 
  • WinUAC_Killer: Opens your computer windows defender and turns it off acts like a human
- •
+ 
 
 
 # Sources
