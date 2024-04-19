@@ -1,6 +1,6 @@
 #include "DigiKeyboard.h"
 
-// Converted using https://naheel.xyz/ducky2digi
+
 
 void loop() {}
 
