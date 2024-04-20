@@ -28,5 +28,10 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
  
 •DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi / https://naheel.xyz/ducky2digi/
 
+
+# License
+Digispark_DuckyScript is licensed under the [MIT License](LICENSE) to promote open collaboration and innovation in the realm of HID security testing.
+
+
 # WARNING!
 Im not responsible for the misuse of the following script be ethical.
