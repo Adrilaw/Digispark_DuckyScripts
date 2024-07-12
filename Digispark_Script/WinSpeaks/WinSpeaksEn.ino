@@ -1,11 +1,14 @@
+//Makes your windows computer speak
+// Created by: Pentestersploit/Adrilaw https://github.com/Adrilaw
 #include "DigiKeyboard.h"
 
 void setup() {
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
-  DigiKeyboard.delay(500);
+  DigiKeyboard.delay(750);
   DigiKeyboard.print("powershell");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(500);
+  DigiKeyboard.delay(750);
+  
   DigiKeyboard.print("Add-Type -AssemblyName System.Speech");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
