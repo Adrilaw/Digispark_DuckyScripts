@@ -30,11 +30,13 @@ To program the Digispark board using Arduino IDE, follow these steps:
 
 9. Set the **Clock** to **Internal 16.5MHz** for Digispark (Default - 16.5MHz) boards.
 
-10. Connect your Digispark board via USB.
+10. Set the **Programmer** to **Micronucleus**.
+   
+12. Connect your Digispark board via USB.
 
-11. Choose one of the Digispark_DuckyScript
+13. Choose one of the Digispark_DuckyScript
 
-12. You're now ready to upload sketches to your Digispark board using Arduino IDE!
+14. You're now ready to upload sketches to your Digispark board using Arduino IDE!
 
 # Scripts Descriptions
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
