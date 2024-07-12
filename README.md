@@ -9,8 +9,44 @@ The following scripts were tested on windows 10/11 machine
 # Digispark_DuckyScript
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h and DigiKeyboardFr.h library making the DigiSpark to act as a keyboard and execute a variety of actions. The DigikeyboardFr.h is the libary for the french keyboard watch https://www.youtube.com/watch?v=PYugCE4A6js to know how to install it. If you have found a USB Rubber Ducky scipt that you want to convert to a DigiSpark sketch, you can go to https://naheel.xyz/ducky2digi/ and your paste ducky script and convert it to digispark.
 
-# Instructions
-Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/digispark/tutorials/connecting or Seytonic's tutorial: https://youtu.be/fGmGBa-4cYQ. Then download one of scripts (sketches), open them with Arduino IDE, modify them if needed and upload them to the DigiSpark.
+# Setting Up Digispark in Arduino IDE
+To program the Digispark board using Arduino IDE, follow these steps:
+
+Open Arduino IDE:
+
+Launch Arduino IDE on your computer.
+Open Preferences:
+
+Go to File > Preferences (Windows) or Arduino > Preferences (macOS).
+Add Board Manager URL:
+
+Paste the following URL into the Additional Board Manager URLs field:
+bash
+Copy code
+https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json
+Click OK:
+
+Click OK to save the preferences.
+Open Board Manager:
+
+Navigate to Tools > Board > Boards Manager.
+Install Digistump AVR Boards:
+
+Search for Digistump AVR in the Boards Manager search bar.
+Select Digistump AVR Boards and click Install.
+Select Digispark Board:
+
+Once installed, navigate to Tools > Board and select Digispark (Default - 16.5MHz).
+Select Processor:
+
+Choose the appropriate Processor (e.g., ATtiny85).
+Set Clock:
+
+Set the Clock to Internal 16.5MHz for Digispark (Default - 16.5MHz) boards.
+Upload Configuration:
+
+Connect your Digispark board to your computer via USB.
+You're now ready to upload sketches to your Digispark board using Arduino IDE!
 
 # Scripts Descriptions
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
