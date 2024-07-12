@@ -15,7 +15,7 @@ To program the Digispark board using Arduino IDE, follow these steps:
 
 1. **Open Arduino IDE** and go to **File > Preferences** (Windows) or **Arduino > Preferences** (macOS).
 
-2. Add the following URL to the **Additional Board Manager URLs**:"https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json"
+2. Add the following URL to the **Additional Board Manager URLs**:'https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json'
 3. Click **OK** to save the preferences.
 
 4. Navigate to **Tools > Board > Boards Manager**.
