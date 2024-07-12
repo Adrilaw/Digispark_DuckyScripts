@@ -1,4 +1,5 @@
 //This DigiSpark script opens up Rick Astley's - Never Gonna Give You Up and also a fake Windows update screen and then maximizes it using F11
+// Created by: Pentestersploit/Adrilaw https://github.com/Adrilaw
 #include "DigiKeyboardFr.h"
 void setup() {
   //empty
