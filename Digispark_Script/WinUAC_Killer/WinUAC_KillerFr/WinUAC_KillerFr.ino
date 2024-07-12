@@ -33,10 +33,10 @@ void setup() {
   DigiKeyboardFr.sendKeyStroke(KEY_ENTER);
   DigiKeyboardFr.delay(500);
   DigiKeyboardFr.sendKeyStroke(44);
+  DigiKeyboardFr.delay(750);
+  DigiKeyboardFr.sendKeyStroke(43);
+  DigiKeyboardFr.sendKeyStroke(43);
+  DigiKeyboardFr.sendKeyStroke(44);
   DigiKeyboardFr.delay(500);
-  DigiKeyboard.sendKeyStroke(43);
-  DigiKeyboard.sendKeyStroke(43);
-  DigiKeyboard.sendKeyStroke(44);
-  DigiKeyboard.delay(500);
   DigiKeyboardFr.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
 }
