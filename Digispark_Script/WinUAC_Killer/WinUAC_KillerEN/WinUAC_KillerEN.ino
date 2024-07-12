@@ -33,7 +33,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(44);
-  DigiKeyboard.delay(500);
+  DigiKeyboard.delay(750);
   DigiKeyboard.sendKeyStroke(43);
   DigiKeyboard.sendKeyStroke(43);
   DigiKeyboard.sendKeyStroke(44);
