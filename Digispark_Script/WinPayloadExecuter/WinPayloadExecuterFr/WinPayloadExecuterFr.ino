@@ -1,3 +1,5 @@
+//Opens a powershell and downloads payload from attackers webserver and executes it
+// Created by: Pentestersploit/Adrilaw https://github.com/Adrilaw
 #include "DigiKeyboardFr.h"
 
 
