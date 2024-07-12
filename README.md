@@ -9,44 +9,32 @@ The following scripts were tested on windows 10/11 machine
 # Digispark_DuckyScript
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h and DigiKeyboardFr.h library making the DigiSpark to act as a keyboard and execute a variety of actions. The DigikeyboardFr.h is the libary for the french keyboard watch https://www.youtube.com/watch?v=PYugCE4A6js to know how to install it. If you have found a USB Rubber Ducky scipt that you want to convert to a DigiSpark sketch, you can go to https://naheel.xyz/ducky2digi/ and your paste ducky script and convert it to digispark.
 
-# Setting Up Digispark in Arduino IDE
+### Setting Up Digispark in Arduino IDE
+
 To program the Digispark board using Arduino IDE, follow these steps:
 
-Open Arduino IDE:
+1. **Open Arduino IDE** and go to **File > Preferences** (Windows) or **Arduino > Preferences** (macOS).
 
-Launch Arduino IDE on your computer.
-Open Preferences:
+2. Add the following URL to the **Additional Board Manager URLs**:"https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json"
+3. Click **OK** to save the preferences.
 
-Go to File > Preferences (Windows) or Arduino > Preferences (macOS).
-Add Board Manager URL:
+4. Navigate to **Tools > Board > Boards Manager**.
 
-Paste the following URL into the Additional Board Manager URLs field:
-bash
-Copy code
-https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json
-Click OK:
+5. Search for **Digistump AVR** in the search bar.
 
-Click OK to save the preferences.
-Open Board Manager:
+6. Select **Digistump AVR Boards** and click **Install**.
 
-Navigate to Tools > Board > Boards Manager.
-Install Digistump AVR Boards:
+7. After installation, go to **Tools > Board** and select **Digispark (Default - 16.5MHz)**.
 
-Search for Digistump AVR in the Boards Manager search bar.
-Select Digistump AVR Boards and click Install.
-Select Digispark Board:
+8. Choose the appropriate **Processor** (e.g., **ATtiny85**).
 
-Once installed, navigate to Tools > Board and select Digispark (Default - 16.5MHz).
-Select Processor:
+9. Set the **Clock** to **Internal 16.5MHz** for Digispark (Default - 16.5MHz) boards.
 
-Choose the appropriate Processor (e.g., ATtiny85).
-Set Clock:
+10. Connect your Digispark board via USB.
 
-Set the Clock to Internal 16.5MHz for Digispark (Default - 16.5MHz) boards.
-Upload Configuration:
+11. Choose one of the Digispark_DuckyScript
 
-Connect your Digispark board to your computer via USB.
-You're now ready to upload sketches to your Digispark board using Arduino IDE!
+12. You're now ready to upload sketches to your Digispark board using Arduino IDE!
 
 # Scripts Descriptions
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
