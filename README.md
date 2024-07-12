@@ -9,13 +9,13 @@ The following scripts were tested on windows 10/11 machine
 # Digispark_DuckyScript
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h and DigiKeyboardFr.h library making the DigiSpark to act as a keyboard and execute a variety of actions. The DigikeyboardFr.h is the libary for the french keyboard watch https://www.youtube.com/watch?v=PYugCE4A6js to know how to install it. If you have found a USB Rubber Ducky scipt that you want to convert to a DigiSpark sketch, you can go to https://naheel.xyz/ducky2digi/ and your paste ducky script and convert it to digispark.
 
-### Setting Up Digispark in Arduino IDE
+# Setting Up Digispark in Arduino IDE
 
 To program the Digispark board using Arduino IDE, follow these steps:
 
 1. **Open Arduino IDE** and go to **File > Preferences** (Windows) or **Arduino > Preferences** (macOS).
 
-2. Add the following URL to the **Additional Board Manager URLs**:'https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json'
+2. Add the following URL to the **Additional Board Manager URLs**:`https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json`
 3. Click **OK** to save the preferences.
 
 4. Navigate to **Tools > Board > Boards Manager**.
