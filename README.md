@@ -43,8 +43,9 @@ To program the Digispark board using Arduino IDE, follow these steps:
 
  • WinPayloadExecuter: Runs powershell as admin and downloads your payload from webserver and execute it  NOTE: Edit the url to your desire place
 
- # Script Compatibility and Test Platforms
+ # Script Compatibility and Tested Platforms
  -**Windows 10/11**
+ 
  -**Debian based** (eg..Ubuntu,Kali-Linux,etc.)
 
 # Sources
