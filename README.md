@@ -38,6 +38,8 @@ To program the Digispark board using Arduino IDE, follow these steps:
  • FakeUpdateWin10: Opens a prank windows 10 fake update screen
 
  • Linux-Deb-Reverse_Shell: Starts a reverse shell on linux machine 
+
+ • Silly-mouse: Makes your mouse act silly
  
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
  
