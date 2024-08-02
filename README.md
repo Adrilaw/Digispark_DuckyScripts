@@ -41,7 +41,7 @@ To program the Digispark board using Arduino IDE, follow these steps:
  
  • WinUAC_Killer: Opens your computer windows defender and turns it off acts like a human
 
- • WinPayloadExecuter: Runs powershell as admin and downloads your payload from webserver and execute it  NOTE: Edit the url to your desire place
+ • WinPayloadExecutor: Runs powershell as admin and downloads your payload from webserver and execute it  NOTE: Edit the url to your desire place
 
 ![68747470733a2f2f692e6962622e636f2f6a5a32777658302f4e455745562d41542e706e67](https://github.com/user-attachments/assets/34b0b9fd-01e8-42c3-a98f-7276218edb73)
 
