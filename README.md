@@ -33,6 +33,12 @@ To program the Digispark board using Arduino IDE, follow these steps:
 14. You're now ready to upload sketches to your Digispark board using Arduino IDE!
 
 # Scripts Descriptions
+ • FakeUpdateWin11: Opens a prank windows 11 fake update screen
+
+ • FakeUpdateWin10: Opens a prank windows 10 fake update screen
+
+ • Linux-Deb-Reverse_Shell: Starts a reverse shell on linux machine 
+ 
  • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
  
  • RickRoll: Plays Never Gonna Give you up song while performing a fake windows update
