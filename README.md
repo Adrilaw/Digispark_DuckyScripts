@@ -41,13 +41,13 @@ To program the Digispark board using Arduino IDE, follow these steps:
 
  • Silly-mouse: Makes your mouse act silly
  
- • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port
+ • Revershell_Win: Opens a powercat reverse shell from a Windows machine to the host NOTE: Edit script to desire ip addr and port.In win 10 the powershell is hidden
  
  • RickRoll: Plays Never Gonna Give you up song while performing a fake windows update
  
  • WinSpeaks: Opens a powershell and makes your computer speak 
  
- • WinUAC_Killer: Opens your computer windows defender and turns it off acts like a human
+ • WinUAC_Killer: Opens your computer windows defender and turn it off
 
  • WinPayloadExecutor: Runs powershell as admin and downloads your payload from webserver and execute it  NOTE: Edit the url to your desire place
 
