@@ -58,7 +58,7 @@ To program the Digispark board using Arduino IDE, follow these steps:
  
  -**Debian based** (eg..Ubuntu,Kali-Linux,etc.)
 
-# Sources
+# Resources
 • USB Rubber Ducky Documentation by hak5darren: https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
  
 • Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
