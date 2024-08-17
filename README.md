@@ -63,7 +63,7 @@ To program the Digispark board using Arduino IDE, follow these steps:
  
 • Digistump DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
  
-• DuckyScript Converter: https://github.com/Naheel-Azawy/ducky2digi / https://naheel.xyz/ducky2digi/
+• DuckyScript Converter: https://github.com/Adrilaw/quickducky2digi / https://adrilaw.github.io/quickducky2digi/
 
 # License
 Digispark_DuckyScript is licensed under the [MIT License](LICENSE) to promote open collaboration and innovation in the realm of HID security testing.
